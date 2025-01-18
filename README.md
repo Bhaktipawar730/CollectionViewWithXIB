@@ -20,4 +20,5 @@
 - Fruit data (images and names) is displayed in each cell.
 
 ##Screenshot->
+
 ![Fruits](https://github.com/user-attachments/assets/f9f945d6-8d3f-4c70-8f1a-ef68a47a740f)
